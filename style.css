@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(42, 165, 73);
+    color: aqua;
+}
+
+.mestitres {
+    color: rgb(40, 18, 182);
+}
+
+p {
+    border: 10px solid #F00;
+}
+
+
+img {
+    width: 300px; 
+    height: auto;
+}
